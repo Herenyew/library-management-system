@@ -1,0 +1,19 @@
+# Maven and Ant build output
+/target/
+/build/
+/dist/
+
+# NetBeans user-specific configuration
+/nbproject/private/
+
+# IDE and operating-system files
+.idea/
+.vscode/
+*.iml
+.DS_Store
+Thumbs.db
+
+# Logs, temporary files, and local tooling
+*.log
+*.tmp
+/.tools/
